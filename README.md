@@ -1,5 +1,8 @@
 # 小站备忘
 
+## [Hugo 部署 GitPages 指南](https://gohugo.io/hosting-and-deployment/hosting-on-github/)
+
+
 ## 使用自定义域名
 
 ### 步骤 1: 准备自定义域名
